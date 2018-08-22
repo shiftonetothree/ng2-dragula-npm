@@ -1,3 +1,10 @@
+# Difference
+## Integrate [mixed-direction](https://github.com/shiftonetothree/dragula/tree/mixed-direction)
+
+## Install
+    npm install ng2-dragula@git+https://github.com/shiftonetothree/ng2-dragula-npm.git --save
+
+# Original README
 ![Logo](https://github.com/bevacqua/dragula/blob/master/resources/logo.png)
 
 > Drag and drop so simple it hurts
